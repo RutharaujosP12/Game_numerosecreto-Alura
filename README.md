@@ -32,7 +32,7 @@
 3️⃣ - O usuário poderá reiniciar o jogo, clicando em <i>"Novo Jogo"<i> e escolhendo um outro algarismo. 
 
 
-:warning: <strong>DICA: Trechos de código que podem ser alterados para aumentar ou diminuir o grau de dificuldade do jogo:</strong> :warning:
+:warning:<strong>DICA: Trechos de código que podem ser alterados para aumentar ou diminuir o grau de dificuldade do jogo:</strong> :warning:
 
 
 
